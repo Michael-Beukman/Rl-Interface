@@ -5,9 +5,10 @@ import os
 from math import log10, ceil
 import numpy as np
 from collections import deque
+from copy import deepcopy
 
 class RLLoop:
-    def __init__(self, env, monitor_dir, model_name='', frequency=100):
+    def __init__(self, env, monitor_dir, model_name='', frequency=100, model_description=''):
         self.env = env
         self.frequency = frequency
         self.model_name = model_name
@@ -15,6 +16,10 @@ class RLLoop:
             model_dir = 'General Models'
         else:
             model_dir = model_name
+        if model_description == '':
+            model_description = 'No description provided'
+
+        self.model_description = model_description
         self.monitor_dir = os.path.join(monitor_dir, model_dir)
 
     def run_episodes(self, env, num_episodes, agent, verbose=False):
@@ -66,10 +71,12 @@ class RLLoop:
         :return: tuple of (all_episode_rewards, deque of 10 newest agents)
         """
         monitor_folder_name = os.path.join(self.monitor_dir, self.get_monitor_folder_name(self))
+        self.write_description_file(monitor_folder_name, num_runs, num_episodes)
         num_zeros = int(ceil(log10(num_runs)))
         all_episode_rewards = []
         newest_agents = deque(maxlen=10)
         for run_num in range(num_runs):
+            agent.pre_run()
             folder = os.path.join(monitor_folder_name, str(run_num).zfill(num_zeros))
             if doMonitor:
                 monitor = wrappers.Monitor(self.env, folder, video_callable=False)
@@ -77,14 +84,14 @@ class RLLoop:
                 monitor = self.env
             if seeding:
                 monitor.seed(run_num)
-            episode_rewards, new_agent = self.run_episodes(monitor, num_episodes, agent, verbose=verbose)
+            episode_rewards, new_agent = self.run_episodes(monitor, num_episodes, deepcopy(agent), verbose=verbose)
             newest_agents.append(new_agent)
             all_episode_rewards.append(episode_rewards)
 
         return all_episode_rewards, newest_agents
 
     @staticmethod
-    def analyse_rewards(self, episode_rewards):
+    def analyse_rewards(episode_rewards):
         rewards = np.array(episode_rewards)
 
         average_per_run = np.average(rewards, axis=1)
@@ -99,3 +106,20 @@ class RLLoop:
                "totalAverage":total_average}
 
         return dic
+
+
+    def write_description_file(self, folder, num_runs, num_episodes):
+        if not os.path.exists(folder):
+            os.makedirs(folder)
+        name = 'details.txt'
+        delim = '='*100 + "\n"
+        with open(os.path.join(folder, name), 'w+') as f:
+            f.write('RLLoop Details file\n')
+            f.write(delim)
+            f.write("Model Details\n" + delim)
+            f.write(self.model_description+'\n'+delim)
+            f.write('\nRun Details\n' + delim)
+            f.write("Number of runs: {}\n".format(num_runs))
+            f.write("Number of episodes per run: {}\n".format(num_episodes))
+
+

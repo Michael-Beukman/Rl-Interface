@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21a9eba4-a6e0-4aed-ba8c-1eb2d05c15c4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Rl-Interface.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RLLoop.py" beforeDir="false" afterPath="$PROJECT_DIR$/RLLoop.py" afterDir="false" />
     </list>
@@ -14,28 +12,59 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Rl_Interface" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="policyGradients.py" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/Research/An Empirical Analysis of Policy Parameterisations for Low-Dimensional Continuous Control Tasks/Tasks/Different methods/PolicyGradientsCartpole/policyGradients.py">
+      <file leaf-file-name="RLLoop.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RLLoop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="62" column="14" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
+            <state relative-caret-position="1696">
+              <caret line="90" column="49" selection-start-line="90" selection-start-column="49" selection-end-line="90" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataAnalysis.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DataAnalysis.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="410">
+              <caret line="80" column="17" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="17" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#122#221#0" />
+                <element signature="e#251#501#0" />
+                <element signature="e#563#944#0" />
+                <element signature="e#577#703#0" />
+                <element signature="e#981#1279#0" />
+                <element signature="e#1152#1279#0" />
+                <element signature="e#1319#1472#0" />
+                <element signature="e#1319#1340#0" />
+                <element signature="e#1510#1676#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RLLoop.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RLLoop.py">
+      <file leaf-file-name="openaigym.manifest.0.7260.manifest.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monitorData/2018-11-20 17h50m48s/0/openaigym.manifest.0.7260.manifest.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="dataAnalysisV2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Research/An Empirical Analysis of Policy Parameterisations for Low-Dimensional Continuous Control Tasks/Tasks/First Task - MountainCar Sarsa/SarsaLambda-V04/dataAnalysis/dataAnalysisV2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="348">
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="openaigym.episode_batch.0.7260.stats.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monitorData/2018-11-20 17h50m48s/0/openaigym.episode_batch.0.7260.stats.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret column="11747" selection-start-column="11747" selection-end-column="11762" />
             </state>
           </provider>
         </entry>
@@ -63,6 +92,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rewa</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -72,16 +106,19 @@
         <option value="$PROJECT_DIR$/driver.py" />
         <option value="$PROJECT_DIR$/__init__.py" />
         <option value="$USER_HOME$/Research/An Empirical Analysis of Policy Parameterisations for Low-Dimensional Continuous Control Tasks/Tasks/Different methods/PolicyGradientsCartpole/policyGradients.py" />
-        <option value="$PROJECT_DIR$/RLLoop.py" />
         <option value="$PROJECT_DIR$/testLib.py" />
         <option value="$PROJECT_DIR$/todo" />
+        <option value="$PROJECT_DIR$/DataAnalysis.p.py" />
+        <option value="$USER_HOME$/Research/An Empirical Analysis of Policy Parameterisations for Low-Dimensional Continuous Control Tasks/Tasks/First Task - MountainCar Sarsa/SarsaLambda-V04/dataAnalysis/dataAnalysisV2.py" />
+        <option value="$PROJECT_DIR$/RLLoop.py" />
+        <option value="$PROJECT_DIR$/DataAnalysis.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="2540" />
-    <option name="height" value="1394" />
+    <option name="width" value="2560" />
+    <option name="height" value="1417" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -93,8 +130,26 @@
         <subPane>
           <expand>
             <path>
-              <item name="Rl-Interface" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Rl-Interface" type="462c0819:PsiDirectoryNode" />
+              <item name="Rl_Interface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rl_Interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Rl_Interface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rl_Interface" type="462c0819:PsiDirectoryNode" />
+              <item name="monitorData" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Rl_Interface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rl_Interface" type="462c0819:PsiDirectoryNode" />
+              <item name="monitorData" type="462c0819:PsiDirectoryNode" />
+              <item name="2018-11-20 17h50m48s" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Rl_Interface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rl_Interface" type="462c0819:PsiDirectoryNode" />
+              <item name="monitorData" type="462c0819:PsiDirectoryNode" />
+              <item name="2018-11-20 17h50m48s" type="462c0819:PsiDirectoryNode" />
+              <item name="0" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -117,7 +172,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.testLib">
+  <component name="RunManager" selected="Python.DataAnalysis">
+    <configuration name="DataAnalysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Rl_Interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataAnalysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="driver" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Rl-Interface" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,9 +249,11 @@
       <item itemvalue="Python.driver" />
       <item itemvalue="Python.policyGradients" />
       <item itemvalue="Python.testLib" />
+      <item itemvalue="Python.DataAnalysis" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.DataAnalysis" />
         <item itemvalue="Python.testLib" />
         <item itemvalue="Python.policyGradients" />
         <item itemvalue="Python.driver" />
@@ -199,19 +274,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="2540" height="1394" extended-state="0" />
+    <frame x="0" y="23" width="2560" height="1417" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24970226" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49942464" visible="true" weight="0.24773532" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3299923" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3242424" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.3299923" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.43863636" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3299923" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3299923" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.50057536" side_tool="true" weight="0.24970226" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -230,13 +305,266 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Research/An Empirical Analysis of Policy Parameterisations for Low-Dimensional Continuous Control Tasks/Tasks/First Task - MountainCar Sarsa/SarsaLambda-V04/dataAnalysis/dataAnalysisV2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monitorData/2018-11-20 17h50m48s/0/openaigym.episode_batch.0.7260.stats.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret column="11747" selection-start-column="11747" selection-end-column="11762" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RLLoop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="60" column="23" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+          <folding>
+            <element signature="e#122#221#0" />
+            <element signature="e#251#501#0" />
+            <element signature="e#563#944#0" />
+            <element signature="e#577#703#0" />
+            <element signature="e#981#1279#0" />
+            <element signature="e#1152#1279#0" />
+            <element signature="e#1319#1472#0" />
+            <element signature="e#1319#1340#0" />
+            <element signature="e#1510#1676#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monitorData/2018-11-20 17h50m48s/0/openaigym.manifest.0.7260.manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Research/An Empirical Analysis of Policy Parameterisations for Low-Dimensional Continuous Control Tasks/Tasks/First Task - MountainCar Sarsa/SarsaLambda-V04/dataAnalysis/dataAnalysisV2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monitorData/2018-11-20 17h50m48s/0/openaigym.episode_batch.0.7260.stats.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret column="11747" selection-start-column="11747" selection-end-column="11762" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RLLoop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="60" column="23" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+          <folding>
+            <element signature="e#122#221#0" />
+            <element signature="e#251#501#0" />
+            <element signature="e#563#944#0" />
+            <element signature="e#577#703#0" />
+            <element signature="e#981#1279#0" />
+            <element signature="e#1152#1279#0" />
+            <element signature="e#1319#1472#0" />
+            <element signature="e#1319#1340#0" />
+            <element signature="e#1510#1676#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monitorData/2018-11-20 17h50m48s/0/openaigym.manifest.0.7260.manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Research/An Empirical Analysis of Policy Parameterisations for Low-Dimensional Continuous Control Tasks/Tasks/First Task - MountainCar Sarsa/SarsaLambda-V04/dataAnalysis/dataAnalysisV2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monitorData/2018-11-20 17h50m48s/0/openaigym.episode_batch.0.7260.stats.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret column="11747" lean-forward="true" selection-start-column="11747" selection-end-column="11762" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RLLoop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1972">
+          <caret line="75" column="32" lean-forward="true" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="60" column="23" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+          <folding>
+            <element signature="e#122#221#0" />
+            <element signature="e#251#501#0" />
+            <element signature="e#563#944#0" />
+            <element signature="e#577#703#0" />
+            <element signature="e#981#1279#0" />
+            <element signature="e#1152#1279#0" />
+            <element signature="e#1319#1472#0" />
+            <element signature="e#1319#1340#0" />
+            <element signature="e#1510#1676#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monitorData/2018-11-20 17h50m48s/0/openaigym.manifest.0.7260.manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Research/An Empirical Analysis of Policy Parameterisations for Low-Dimensional Continuous Control Tasks/Tasks/First Task - MountainCar Sarsa/SarsaLambda-V04/dataAnalysis/dataAnalysisV2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monitorData/2018-11-20 17h50m48s/0/openaigym.episode_batch.0.7260.stats.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret column="11747" lean-forward="true" selection-start-column="11747" selection-end-column="11762" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RLLoop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1914">
+          <caret line="73" column="27" lean-forward="true" selection-start-line="73" selection-start-column="27" selection-end-line="73" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1508">
+          <caret line="56" column="32" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
+          <folding>
+            <element signature="e#122#221#0" />
+            <element signature="e#251#501#0" />
+            <element signature="e#563#944#0" />
+            <element signature="e#577#703#0" />
+            <element signature="e#981#1279#0" />
+            <element signature="e#1152#1279#0" />
+            <element signature="e#1319#1472#0" />
+            <element signature="e#1319#1340#0" />
+            <element signature="e#1510#1676#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monitorData/2018-11-20 17h50m48s/0/openaigym.manifest.0.7260.manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Research/An Empirical Analysis of Policy Parameterisations for Low-Dimensional Continuous Control Tasks/Tasks/First Task - MountainCar Sarsa/SarsaLambda-V04/dataAnalysis/dataAnalysisV2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monitorData/2018-11-20 17h50m48s/0/openaigym.episode_batch.0.7260.stats.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret column="11747" lean-forward="true" selection-start-column="11747" selection-end-column="11762" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Research/An Empirical Analysis of Policy Parameterisations for Low-Dimensional Continuous Control Tasks/Tasks/Different methods/PolicyGradientsCartpole/policyGradients.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1653">
+          <caret line="62" column="14" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RLLoop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$USER_HOME$/Research/An Empirical Analysis of Policy Parameterisations for Low-Dimensional Continuous Control Tasks/Tasks/Different methods/PolicyGradientsCartpole/policyGradients.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1798">
           <caret line="62" column="14" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -244,9 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -264,9 +589,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
           <caret line="49" selection-start-line="49" selection-end-line="49" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -274,9 +596,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
           <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -284,13 +603,24 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/testLib.py" />
-    <entry file="file://$PROJECT_DIR$/RLLoop.py">
+    <entry file="file://$USER_HOME$/Research/An Empirical Analysis of Policy Parameterisations for Low-Dimensional Continuous Control Tasks/Tasks/First Task - MountainCar Sarsa/SarsaLambda-V04/dataAnalysis/dataAnalysisV2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="348">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monitorData/2018-11-20 17h50m48s/0/openaigym.episode_batch.0.7260.stats.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret column="11747" selection-start-column="11747" selection-end-column="11762" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Research/An Empirical Analysis of Policy Parameterisations for Low-Dimensional Continuous Control Tasks/Tasks/Different methods/PolicyGradientsCartpole/policyGradients.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1727">
+          <caret line="73" column="27" selection-start-line="73" selection-start-column="27" selection-end-line="73" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -301,12 +631,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Research/An Empirical Analysis of Policy Parameterisations for Low-Dimensional Continuous Control Tasks/Tasks/Different methods/PolicyGradientsCartpole/policyGradients.py">
+    <entry file="file://$PROJECT_DIR$/monitorData/2018-11-20 17h50m48s/0/openaigym.manifest.0.7260.manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RLLoop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="62" column="14" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
+        <state relative-caret-position="1696">
+          <caret line="90" column="49" selection-start-line="90" selection-start-column="49" selection-end-line="90" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="80" column="17" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="17" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#122#221#0" />
+            <element signature="e#251#501#0" />
+            <element signature="e#563#944#0" />
+            <element signature="e#577#703#0" />
+            <element signature="e#981#1279#0" />
+            <element signature="e#1152#1279#0" />
+            <element signature="e#1319#1472#0" />
+            <element signature="e#1319#1340#0" />
+            <element signature="e#1510#1676#0" />
           </folding>
         </state>
       </provider>
